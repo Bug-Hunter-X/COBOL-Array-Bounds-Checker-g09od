@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL error involving incorrect subscripting with OCCURS clauses. The bug.cob file contains the erroneous code that produces an out-of-bounds error. The bugSolution.cob file provides the corrected version. This is a valuable example to understand how to correctly manage subscripts when working with tables or arrays in COBOL.
